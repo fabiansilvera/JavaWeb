@@ -18,7 +18,7 @@ Luego cree dentro de Java un objeto llamado Mensaje, utilize la sobrecarga de ob
 ![image](https://user-images.githubusercontent.com/108084824/192262182-2cde3d1e-3b01-4039-b6cd-c3d5de5eec59.png)
 
 (Metodos)
-![image](https://user-images.githubusercontent.com/108084824/192262377-918523ad-7091-416a-9e94-ca834c849aac.png)
+![image](https://user-images.githubusercontent.com/108084824/192263430-4630d621-08d1-459a-bc3b-a6511e72a26a.png)
 
 Luego los utilize dentro de un archivo JSP en el cual combine mi programacion dentro de Java con el uso de HTML y CSS.
 
