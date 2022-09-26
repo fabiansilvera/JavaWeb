@@ -1,7 +1,7 @@
 # JavaWeb
 Un trabajo realizado como practica utilizando JavaWeb y base de datos MySQL
 
-La carpeta de Mensajes son los archivos del packete mensajes el cual contiene  tanto los metodos de conexion con la DB como los objetos y metodos.
+La carpeta de Mensajes son los archivos del paquete mensajes el cual contiene  tanto los metodos de conexion con la DB como los objetos y metodos.
 Luego la carpeta Web tiene los estilos CSS los archivos HTML y las funcionalidades aplicadas a esas secciones de HTML 
 
 La pagina web se basa en la lectura , escritura , edicion y eliminacion de una Data Base mediante el uso de una pagina web.
